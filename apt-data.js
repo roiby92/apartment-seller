@@ -12,7 +12,8 @@ const apartments = [
         contactDetails: {
             name: "Douglas",
             email: "doug@less.com"
-        }
+        },
+        features:['ac','balcony']
     },
     {
         img: "https://i.pinimg.com/736x/17/f2/6e/17f26e8f188af5d3e377dacb2011889a--mediterranean-houses-mediterranean-style.jpg",
@@ -36,7 +37,8 @@ const apartments = [
         contactDetails: {
             name: "Rickay",
             email: "rrrrick@cucumber.com"
-        }
+        },
+        features:['ac','balcony','wifi']
     },
     {
         img: "http://mat2.materialicious.com/images/space-house-803-o.jpg",
@@ -60,6 +62,7 @@ const apartments = [
         contactDetails: {
             name: "Trevor",
             email: "t@noah.ark"
-        }
+        },
+        features:['ac','balcony','vod']
     }
 ]
